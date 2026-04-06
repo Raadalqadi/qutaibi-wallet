@@ -1,5 +1,7 @@
 # Al-Qutaibi Wallet
 
+![Al-Qutaibi Wallet Preview](./assets/preview.jpg)
+
 FinTech marketing platform developed as a production-ready full-stack project for a client through Becon Agency.
 
 ## Overview
